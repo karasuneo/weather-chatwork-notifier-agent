@@ -1,4 +1,4 @@
-# Weather ChatWork Notifier Agent
+# Weather Chatwork Notifier Agent
 
 天気情報を取得してChatWorkに通知するエージェントシステム
 
